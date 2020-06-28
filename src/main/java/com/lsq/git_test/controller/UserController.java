@@ -12,6 +12,8 @@ public class UserController {
         System.out.println("测试代码提交git");
 
 
+        System.out.println("我真帅");
+
     }
 
 }
